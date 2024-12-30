@@ -1,2 +1,3 @@
 txt file created. 1
 hello git and github 2
+edited file from github
